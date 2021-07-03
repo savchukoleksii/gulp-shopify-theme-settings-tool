@@ -1,0 +1,19 @@
+{
+  "name": "@savchukoleksii/gulp-shopify-theme-settings-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savchukoleksii/gulp-shopify-theme-settings-tool.git"
+  },
+  "author": "Oleksii Savchuk <savchukoleksii@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savchukoleksii/gulp-shopify-theme-settings-tool/issues"
+  },
+  "homepage": "https://github.com/savchukoleksii/gulp-shopify-theme-settings-tool#readme",
+  "dependencies": {
+    "through2": "^4.0.2"
+  }
+}
